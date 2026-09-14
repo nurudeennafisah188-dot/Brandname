@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Yellow desk scene with pencils</title>
+  <desc id="desc">Three pencils lie diagonally on a sunny yellow surface with open space for a message.</desc>
+  <defs>
+    <linearGradient id="yellow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffdd27"/><stop offset="1" stop-color="#f2aa0e"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-40%" width="180%" height="200%"><feDropShadow dx="16" dy="20" stdDeviation="12" flood-color="#9a5900" flood-opacity=".32"/></filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#yellow)"/>
+  <path d="M1050 0 H1600 V900 H1280 Q1160 630 1050 0Z" fill="#ffd41c" opacity=".34"/>
+  <g transform="translate(220 660) rotate(-39)" filter="url(#shadow)">
+    <g transform="translate(0 0)"><path d="M0 0 L-75 28 L-42 64Z" fill="#dcc09c"/><path d="M-63 34 L-75 28 L-51 49Z" fill="#2d2b2b"/><rect x="0" y="0" width="690" height="60" rx="8" fill="#ed6c22"/><rect x="18" y="0" width="38" height="60" fill="#ff9f28" opacity=".75"/></g>
+    <g transform="translate(50 90)"><path d="M0 0 L-75 28 L-42 64Z" fill="#dec19e"/><path d="M-63 34 L-75 28 L-51 49Z" fill="#272a2e"/><rect x="0" y="0" width="670" height="60" rx="8" fill="#424d5c"/><rect x="18" y="0" width="34" height="60" fill="#687481" opacity=".72"/></g>
+    <g transform="translate(100 180)"><path d="M0 0 L-75 28 L-42 64Z" fill="#dfbf9c"/><path d="M-63 34 L-75 28 L-51 49Z" fill="#2a292a"/><rect x="0" y="0" width="630" height="60" rx="8" fill="#f3e7c8"/><rect x="18" y="0" width="34" height="60" fill="#fff6df" opacity=".7"/></g>
+  </g>
+  <g fill="#713d03" font-family="Arial, sans-serif"><text x="885" y="390" font-size="64" font-weight="700" letter-spacing="3">MAKE A MARK</text><text x="891" y="452" font-size="24" letter-spacing="4" opacity=".85">DESIGNED FOR FRESH IDEAS</text></g>
+  <path d="M890 490 H1445" stroke="#915707" stroke-width="4" opacity=".38"/>
+</svg>

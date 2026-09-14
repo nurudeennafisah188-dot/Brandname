@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Rainbow pencil collection on a blue background</title>
+  <desc id="desc">A set of colourful pencils rises from the lower edge against a bright cyan-blue background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#64d7f5"/><stop offset="1" stop-color="#1889c7"/></linearGradient>
+    <filter id="s" x="-30%" y="-20%" width="170%" height="160%"><feDropShadow dx="11" dy="18" stdDeviation="11" flood-color="#07547d" flood-opacity=".36"/></filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1340" cy="130" r="265" fill="#fff" opacity=".09"/><circle cx="1450" cy="820" r="350" fill="#0c77ad" opacity=".16"/>
+  <g font-family="Arial, sans-serif" fill="#fff"><text x="105" y="145" font-size="60" font-weight="700" letter-spacing="2">COLOUR YOUR WORLD</text><text x="109" y="207" font-size="24" letter-spacing="3" opacity=".85">EVERY IDEA STARTS HERE</text></g>
+  <g transform="translate(365 850)" filter="url(#s)">
+    <g transform="translate(0 0)"><path d="M0 -225 L34 -275 L68 -225Z" fill="#ddb18b"/><path d="M25 -262 L34 -275 L43 -262 L38 -246 H30Z" fill="#283944"/><rect width="68" height="225" y="-225" rx="5" fill="#1c4979"/></g>
+    <g transform="translate(80 0)"><path d="M0 -325 L34 -375 L68 -325Z" fill="#d9ad87"/><path d="M25 -362 L34 -375 L43 -362 L38 -346 H30Z" fill="#253341"/><rect width="68" height="325" y="-325" rx="5" fill="#16a4a2"/></g>
+    <g transform="translate(160 0)"><path d="M0 -420 L34 -470 L68 -420Z" fill="#e0b38c"/><path d="M25 -457 L34 -470 L43 -457 L38 -441 H30Z" fill="#30323d"/><rect width="68" height="420" y="-420" rx="5" fill="#4cc349"/></g>
+    <g transform="translate(240 0)"><path d="M0 -495 L34 -545 L68 -495Z" fill="#dfb08b"/><path d="M25 -532 L34 -545 L43 -532 L38 -516 H30Z" fill="#31313d"/><rect width="68" height="495" y="-495" rx="5" fill="#f2d01d"/></g>
+    <g transform="translate(320 0)"><path d="M0 -565 L34 -615 L68 -565Z" fill="#dfb18b"/><path d="M25 -602 L34 -615 L43 -602 L38 -586 H30Z" fill="#35303a"/><rect width="68" height="565" y="-565" rx="5" fill="#f58f18"/></g>
+    <g transform="translate(400 0)"><path d="M0 -630 L34 -680 L68 -630Z" fill="#dfb18a"/><path d="M25 -667 L34 -680 L43 -667 L38 -651 H30Z" fill="#38303a"/><rect width="68" height="630" y="-630" rx="5" fill="#f04472"/></g>
+    <g transform="translate(480 0)"><path d="M0 -700 L34 -750 L68 -700Z" fill="#dfb08a"/><path d="M25 -737 L34 -750 L43 -737 L38 -721 H30Z" fill="#342b39"/><rect width="68" height="700" y="-700" rx="5" fill="#ac1f63"/></g>
+    <g transform="translate(560 0)"><path d="M0 -760 L34 -810 L68 -760Z" fill="#deb089"/><path d="M25 -797 L34 -810 L43 -797 L38 -781 H30Z" fill="#352d38"/><rect width="68" height="760" y="-760" rx="5" fill="#752153"/></g>
+    <g transform="translate(640 0)"><path d="M0 -695 L34 -745 L68 -695Z" fill="#dfb18b"/><path d="M25 -732 L34 -745 L43 -732 L38 -716 H30Z" fill="#2f3038"/><rect width="68" height="695" y="-695" rx="5" fill="#3d2551"/></g>
+  </g>
+</svg>

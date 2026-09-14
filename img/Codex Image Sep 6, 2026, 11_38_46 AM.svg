@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Yellow pencil on blue paper composition</title>
+  <desc id="desc">A cheerful stationery-themed promotional background with geometric yellow paper and a single yellow pencil.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5ed2fa"/>
+      <stop offset="1" stop-color="#2499d8"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#fff25a"/>
+      <stop offset="1" stop-color="#ffd930"/>
+    </linearGradient>
+    <linearGradient id="pencil" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f0ac0b"/>
+      <stop offset="0.45" stop-color="#ffd937"/>
+      <stop offset="1" stop-color="#eaa706"/>
+    </linearGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="15" dy="22" stdDeviation="17" flood-color="#12678e" flood-opacity=".38"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <path d="M0 175 L1080 440 L0 710Z" fill="url(#paper)" filter="url(#shadow)"/>
+  <path d="M0 175 L1080 440 L1051 468 L0 708Z" fill="#efbd18" opacity=".27"/>
+  <g transform="translate(1265 250) rotate(1)" filter="url(#shadow)">
+    <path d="M0 0 L70 -88 L140 0Z" fill="#e4c09b"/>
+    <path d="M50 -63 L70 -88 L90 -63 L77 -42 L63 -42Z" fill="#2b3440"/>
+    <rect x="0" y="0" width="140" height="505" rx="6" fill="url(#pencil)"/>
+    <rect x="0" y="0" width="22" height="505" rx="6" fill="#ecad0e"/>
+    <rect x="118" y="0" width="22" height="505" rx="6" fill="#cf8904" opacity=".7"/>
+    <path d="M0 505 H140 V558 Q70 580 0 558Z" fill="#f4c83c"/>
+    <path d="M0 505 H140 V521 H0Z" fill="#da9b0a"/>
+  </g>
+  <g fill="#ffffff" opacity=".42">
+    <circle cx="126" cy="113" r="7"/><circle cx="156" cy="113" r="7"/><circle cx="186" cy="113" r="7"/>
+  </g>
+  <text x="105" y="150" fill="#174d6a" font-family="Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="4">CREATE BRIGHT IDEAS</text>
+  <text x="108" y="205" fill="#245b78" font-family="Arial, sans-serif" font-size="23" letter-spacing="1">STATIONERY COLLECTION</text>
+</svg>
